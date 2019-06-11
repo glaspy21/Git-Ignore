@@ -28,6 +28,11 @@
   width: 50%;
 }
 
+.col-7 {
+  float: left;
+  width: 58.33335%;
+}
+
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
